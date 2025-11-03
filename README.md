@@ -38,13 +38,14 @@
 
 
 | カラム名 | データ型 |NULL |
-| ------------- | ---- |-|
-| Content Cell  | Content Cell  | |
-| Content Cell  | Content Cell  | |
+|-|-|-|
+| |  | |
+|   |  | |
 
 |  | データ型 | NULL | キー | 初期値 | AUTO INCREMENT |
 | ———— | ———— | ——— | ——— | ——— | ————————— | 
 | channel_id | int | | キー | | YES |
+
 
 
 
