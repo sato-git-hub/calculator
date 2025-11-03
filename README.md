@@ -41,9 +41,5 @@
 
 
 
-| カラム名 | データ型 |NULL |キー|初期値|AUTO INCREMENT|
-|-|-|-|-|-|-|
-| channel_id| int | |PRIMARY||YES|
-|  channel_name |  varchar(100)| ||||
 
 
